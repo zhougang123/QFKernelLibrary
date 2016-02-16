@@ -1,2 +1,3 @@
 # QFKernelLibrary
-qfpay kernel library
+QFPay kernel library
+
